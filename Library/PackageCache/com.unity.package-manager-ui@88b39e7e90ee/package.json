@@ -1,0 +1,10 @@
+{
+  "name": "com.unity.package-manager-ui",
+  "displayName": "Package Manager UI",
+  "version": "2.2.0",
+  "type": "shim",
+  "unity": "2019.2",
+  "description": "Use the Unity Package Manager user interface to manage a Project's packages and discover new packages.\n\nFor more information, click the 'View documentation' link above. ",
+  "dependencies": {},
+  "_fingerprint": "88b39e7e90eecadd58dd5f28190a5b9f57782db5"
+}
